@@ -48,5 +48,5 @@ Project Report
 The complete project documentation is available in the repository as a PDF report.
 
 Author
-Arthi S
+Vedha D
 Final Year B.E – Electronics and Communication Engineering
